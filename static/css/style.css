@@ -56,3 +56,27 @@ margin:0;
     text-align: left;
   }
 }
+
+.form-contact label{
+    display: inline-block;
+    min-width: 80px;
+}
+.form-contact p {
+ margin:10px 0 10px 0;
+}
+.flash{
+    padding: 15px;
+    border-radius: 10px;
+}
+.flash.success{
+    border: 1px solid #21DB56;
+    background: #AEFFC5;
+}
+
+.flash.error{
+    border: 1px solid #FF4343;
+    background: #FF9C9C;
+}
+
+
+
